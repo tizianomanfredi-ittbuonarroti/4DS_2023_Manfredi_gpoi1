@@ -1,5 +1,8 @@
 I Girasoli
+<<<<<<< HEAD
 Terrazza del caffè la sera
 Notte stellata
 Iris
 
+=======
+>>>>>>> e8abf53... Aggiunto nuovo file Van Gogh
