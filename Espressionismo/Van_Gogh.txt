@@ -1,5 +1,17 @@
 I Girasoli
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c266812... Modifica apportate al file Van Gogh
 Terrazza del caffè la sera
 Notte stellata
 Iris
 
+<<<<<<< HEAD
+=======
+>>>>>>> e8abf53... Aggiunto nuovo file Van Gogh
+=======
+>>>>>>> e8abf53... Aggiunto nuovo file Van Gogh
+=======
+>>>>>>> c266812... Modifica apportate al file Van Gogh
